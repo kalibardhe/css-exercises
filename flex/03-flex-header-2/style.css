@@ -52,7 +52,6 @@ ul {
   padding: 0;
   display: flex;
   gap: 16px;
-  align-items: center;
 }
 
 .right {
