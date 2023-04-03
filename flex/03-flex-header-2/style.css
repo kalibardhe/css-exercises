@@ -58,7 +58,7 @@ ul {
 .right {
   display: flex;
   align-items: center;
-  gap: 8px;
+  gap: 16px;
   margin-left: auto;
   padding-right: 8px;
 }
