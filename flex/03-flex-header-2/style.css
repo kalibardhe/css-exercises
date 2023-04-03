@@ -51,3 +51,7 @@ ul {
   padding: 0;
   display: flex;
 }
+
+.right {
+  display: flex;
+}
