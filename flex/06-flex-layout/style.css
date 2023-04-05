@@ -43,3 +43,7 @@ input {
 .header {
   display: flex;
 }
+
+.header.left-links {
+  align-items: flex-start;
+}
