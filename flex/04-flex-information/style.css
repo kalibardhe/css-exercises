@@ -33,3 +33,7 @@ img {
   justify-content: center;
   gap: 16px;
 }
+
+.container {
+  display: flex;
+}
