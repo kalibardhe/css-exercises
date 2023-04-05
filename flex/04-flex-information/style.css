@@ -32,7 +32,7 @@ img {
 .plants-container {
   display: flex;
   justify-content: center;
-  gap: 16px;
+  gap: 52px;
 }
 
 .container {
