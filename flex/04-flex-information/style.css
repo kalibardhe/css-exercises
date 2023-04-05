@@ -37,3 +37,7 @@ img {
 .container {
   display: flex;
 }
+
+.text {
+  align-self: flex-end;
+}
