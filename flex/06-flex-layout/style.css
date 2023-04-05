@@ -39,3 +39,7 @@ input {
 .footer {
   display: flex;
 }
+
+.header {
+  display: flex;
+}
