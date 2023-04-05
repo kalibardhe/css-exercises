@@ -44,7 +44,7 @@ img {
 }
 
 .text {
-  align-self: flex-end;
+  align-self: center;
   justify-content: center;
   max-width: 100px;
 }
