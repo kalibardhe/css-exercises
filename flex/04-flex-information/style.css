@@ -29,4 +29,5 @@ img {
 
 .plants-container {
   display: flex;
+  justify-content: center;
 }
