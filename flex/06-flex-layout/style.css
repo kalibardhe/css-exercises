@@ -38,6 +38,7 @@ input {
 
 .footer {
   display: flex;
+  justify-content: space-between;
 }
 
 .header {
