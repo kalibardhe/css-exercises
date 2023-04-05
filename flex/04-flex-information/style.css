@@ -45,5 +45,5 @@ img {
 
 .text {
   align-self: flex-end;
-  flex-wrap: wrap;
+  justify-content: center;
 }
