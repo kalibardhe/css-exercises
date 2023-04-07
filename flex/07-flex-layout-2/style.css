@@ -42,7 +42,6 @@ body {
 
 .cards-container {
   display: flex;
-  gap: 32px;
 }
 
 .card {
