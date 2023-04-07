@@ -48,7 +48,6 @@ input {
 .footer,
 .header {
   display: flex;
-  justify-content: space-between;
 }
 
 .left-links,
