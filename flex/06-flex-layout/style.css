@@ -49,8 +49,3 @@ input {
 .header {
   display: flex;
 }
-
-.left-links,
-.right-links {
-  display: flex;
-}
