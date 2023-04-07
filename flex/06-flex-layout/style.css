@@ -45,11 +45,7 @@ input {
   margin-bottom: 16px;
 }
 
-.footer {
-  display: flex;
-  justify-content: space-between;
-}
-
+.footer,
 .header {
   display: flex;
   justify-content: space-between;
