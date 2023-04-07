@@ -49,3 +49,7 @@ input {
   display: flex;
   flex-direction: column;
 }
+
+.footer {
+  justify-content: flex-end;
+}
