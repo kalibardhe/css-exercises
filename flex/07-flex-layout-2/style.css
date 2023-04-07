@@ -23,6 +23,10 @@ body {
   color: darkmagenta;
 }
 
+.side-cards {
+  display: flex;
+}
+
 .sidebar {
   width: 300px;
   background: royalblue;
